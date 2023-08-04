@@ -1,0 +1,13 @@
+,COMET (all-cause death),,,,COMET (all-cause death or hospitalisation),,,,DIG (all-cause death),,,,,DIG (death or hospitalisation due to worsening heart failure),,,
+,coefficients,mean of each covariate in HF registry,mean of each covariate in COMET,mean difference * coefficients,coefficients,mean of each covariate in HF registry,mean of each covariate in COMET,mean difference * coefficients,,coefficients,mean of each covariate in HF registry,mean of each covariate in DIG,mean difference * coefficients,coefficients,mean of each covariate in HF registry,mean of each covariate in DIG,mean difference * coefficients
+treatment ,0.16,--,--,--,0.3,--,--,--,,-0.17,--,--,--,0.29,--,--,
+treatment by male,0.11,0.61,0.8,-0.02,-0.26,0.61,0.8,0.05,,0.27,0.61,0.78,-0.05,0.49,0.61,0.78,-0.08
+treatment by age,0.03,1,0,0.03,-0.09,1,0,-0.09,,0.02,0.9,0,0.02,-0.02,0.9,0,-0.02
+treatment by Diabetes,-0.05,0.23,0.24,0,-0.07,0.23,0.24,0,,-0.1,0.23,0.28,0.01,-0.22,0.23,0.28,0.01
+treatment by loop diuretics,-0.07,0.9,0,-0.06,-0.03,0.9,0,-0.03,,--,--,--,--,--,--,--,--
+treatment by sodium,-0.14,-0.38,0,0.05,0.01,-0.38,0,0,,--,--,--,--,--,--,--,--
+treatment by eGFR,0.23,-0.39,0,-0.09,0.05,-0.39,0,-0.02,,-0.04,-0.2,0,0.01,-0.12,-0.2,0,0.02
+treatment by SBP,0.12,-0.33,0,-0.04,0.07,-0.33,0,-0.02,treat by low SBP,-0.05,0.43,0,-0.02,0.08,0.43,0,0.03
+,,,,,,,,,treat by high,-0.09,-0.12,0,0.01,-0.12,-0.12,0,0.01
+,,,,,,,,,SBP,,,,,,,,
+treatment by heartrate,0.06,-0.59,0,-0.04,0.12,-0.59,0,-0.07,,0.07,-0.44,0,-0.03,0.12,-0.44,0,-0.05
